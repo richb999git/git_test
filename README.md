@@ -1,1 +1,1 @@
-This Richard's test GIT project
+This is Richard's test GIT project
